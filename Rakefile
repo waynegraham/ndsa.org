@@ -1,7 +1,7 @@
 require_relative 'lib/utils'
 
 # FEED_URL = 'https://www.diglib.org/category/ndsa/feed/'
-FEED_URL = 'http://ndsa.wordpress.clir.org/category/ndsa/feed/'
+FEED_URL = 'https://ndsa.wordpress.clir.org/category/ndsa/feed/'
 
 Dotenv.load
 
