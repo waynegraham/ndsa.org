@@ -1,13 +1,14 @@
 require_relative 'lib/utils'
 
-FEED_URL = 'https://www.diglib.org/category/ndsa/feed/'
+# FEED_URL = 'https://www.diglib.org/category/ndsa/feed/'
+FEED_URL = 'http://ndsa.wordpress.clir.org/category/ndsa/feed/'
 
 Dotenv.load
 
-task default: %w(import:rss)
+task default: %w[import:rss]
 
 namespace :import do
-  desc "Import NDSA feed"
+  desc 'Import NDSA feed'
   task :rss do
     Rss.import(FEED_URL)
   end
@@ -22,9 +23,9 @@ namespace :test do
       assume_extension: true,
       disable_external: true,
       empty_alt_ignore: true,
-      url_swap: { "^/" => "http://localhost/" }
+      url_swap: { '^/' => 'http://localhost/' }
     }
-    HTMLProofer.check_directory("./_site", options).run
+    HTMLProofer.check_directory('./_site', options).run
     # HTML::Proofer.new('./_site').run
   end
 
@@ -49,12 +50,11 @@ namespace :geocode do
     Geocode.new(Google.worksheet)
     Geocode.geocode_empty
   end
-
 end
 
 namespace :convert do
   desc 'Run all conversions (for map and membership list)'
-  task :all => [:table_data, :members_map, :checksums]
+  task all: %i[table_data members_map checksums]
 
   desc 'Create checksums for the documents directory'
   task :checksums do
@@ -74,5 +74,4 @@ namespace :convert do
     Members.new(Google.worksheet)
     Members.write_geojson
   end
-
 end

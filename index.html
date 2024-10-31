@@ -1,8 +1,5 @@
 ---
 layout: default
-javascript:
-- /js/FeedEk.js
-- /js/feed.js
 ---
 <section class="home bg-img" id="home">
   <div class="bg-overlay"></div>
@@ -166,7 +163,18 @@ javascript:
     <div class="row social">
       <div class="col-sm-6">
         <h1>Latest Posts</h1>
-        <div id="blog"></div>
+        <!-- <div id="blog"></div> -->
+        <ul class="feedEkList">
+          {% for post in site.posts limit:5 %}
+          <li>
+            <div class="itemTitle">
+              <a href="{{post.url}}">{{post.title}}</a>
+            </div>
+            <div class="itemDate">{{post.date | date: "%-d %B %Y" }}</div>
+            <div class="itemContent">{{post.content | truncatewords: 20 }}</div>
+          </li>
+          {% endfor %}
+        </ul>
       </div>
 
       <div class="col-sm-6">
