@@ -161,15 +161,8 @@ redirect_from: /leadership/
 
 <h2>Interest and Working Group Chairs</h2>
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Amy Allen</h3>
-        <p>Amy Allen (<a href="/groups/storage-survey/">Storage Survey Working Group</a> Co-Chair) is the University Archivist at the University of Arkansas. In this role she is responsible for the life cycle of both physical and digital records, including donations, accessions, processing, preservation, and providing access. She creates policy for the University Archives and serves on leadership teams guiding policy and procedure development and revision for the broader division. </p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Amy Allen" src="{{ '/images/coordinating-committee/AllenAmy2023.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
+
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -296,21 +289,20 @@ redirect_from: /leadership/
     </div>
 </div>
 
-<div class="row coordinating-committee">
+
+
+
+
+
+<!--<div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Mark Shelstad</h3>
-        <p>Mark Shelstad (<a href="/groups/storage-survey/">Storage Survey Working Group</a> Co-Chair) is Associate Professor and Head of Digital and Archive Services at Colorado State University, where he has worked since 2015. He has degrees in history from the University of Minnesota-Morris and the University of Wisconsin-Milwaukee. He previously worked in archives and special collections at the University of Wyoming, the Wyoming State Archives, and the University of Texas at San Antonio. His areas of expertise include archives and records management, digitization and metadata, and digital preservation.</p>
+        <h3>Amy Allen</h3>
+        <p>Amy Allen (<a href="/groups/storage-survey/">Storage Survey Working Group</a> Co-Chair) is the University Archivist at the University of Arkansas. In this role she is responsible for the life cycle of both physical and digital records, including donations, accessions, processing, preservation, and providing access. She creates policy for the University Archives and serves on leadership teams guiding policy and procedure development and revision for the broader division. </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Mark Shelstad" src="{{ '/images/coordinating-committee/shelstad_mark.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Amy Allen" src="{{ '/images/coordinating-committee/AllenAmy2023.jpg' | prepend: site.baseurl }}">
     </div>
-</div>
-
-
-
-
-
-
+</div>-->
 
 <!--<div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -349,6 +341,16 @@ redirect_from: /leadership/
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" class="img-responsive" alt="Jes Neal" src="{{ '/images/coordinating-committee/Jes2020.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>-->
+
+<!--<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Mark Shelstad</h3>
+        <p>Mark Shelstad (<a href="/groups/storage-survey/">Storage Survey Working Group</a> Co-Chair) is Associate Professor and Head of Digital and Archive Services at Colorado State University, where he has worked since 2015. He has degrees in history from the University of Minnesota-Morris and the University of Wisconsin-Milwaukee. He previously worked in archives and special collections at the University of Wyoming, the Wyoming State Archives, and the University of Texas at San Antonio. His areas of expertise include archives and records management, digitization and metadata, and digital preservation.</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Mark Shelstad" src="{{ '/images/coordinating-committee/shelstad_mark.jpg' | prepend: site.baseurl }}">
     </div>
 </div>-->
 
