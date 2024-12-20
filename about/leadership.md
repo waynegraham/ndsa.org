@@ -74,15 +74,7 @@ redirect_from: /leadership/
 </div>
 
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Stacey Erdman</h3>
-        <p>Stacey Erdman (1st term, 2022-2024; 2023 DigiPres Chair; <a href="/groups/membership/">Membership Working Group</a> Co-chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
-    </div>
-    <div class="col-sm-2">
-         <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
-    </div>
-</div>
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
@@ -96,11 +88,12 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Jen Mitcham</h3>
-        <p>Jen Mitcham (1st Term, 2022-2024; Levels of Digital Preservation Co-Chair) is Head of Good Practice and Standards at the Digital Preservation Coalition (DPC), an international membership organization with charitable status based in the UK. In her role at the DPC, Jenny is responsible for promoting and maintaining the DPC's maturity model for digital preservation the Rapid Assessment Model (DPC RAM) and leads a digital preservation project with the UK's Nuclear Decommissioning Authority. She has recently led the DPC's taskforce on EDRMS preservation which has resulted in the publication of an online resource. She is involved in the organization of events and commissioning publications on digital preservation issues and provides support to DPC Members in a variety of different areas. Jenny was previously a digital archivist at the Archaeology Data Service and the University of York and has been working in the field of digital preservation since 2003. She has been involved in several initiatives with the NDSA over the last few years, including the revision of the NDSA Levels of Preservation and the 2021 Fixity Survey.</p>
+        <h3>Kari May</h3>
+        <p>Kari May (1st term, 2025-2027; <a href="/groups/excellance-awards/">Excellence Awards Working Group</a> Co-Chair; ) is the first Digital Archives & Preservation Librarian for the University of Pittsburgh Library System (ULS). She designed and implemented the ULS digital preservation program and continues to guide and develop strategies, workflows, documentation, and policies to safely guide digital assets from receipt to full, secure preservation. Previously, Kari led the development and operation of Kentucky State Government Electronic Records Management Branch and launched the Kentucky State Digital Archives. She has served as a member of the NDSA Excellence Awards Working Group and represented the group as a judge for the Digital Preservation Coalition’s 2022 Digital Preservation Awards.
+        </p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Jen Mitcham" src="{{ '/images/coordinating-committee/Mitcham2022.jpg' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Kari May" src="{{ '/images/coordinating-committee/May_April2023.JPG' | prepend: site.baseurl }}">
     </div>
 </div>
 
@@ -148,16 +141,7 @@ redirect_from: /leadership/
 </div>
 
 
-<div class="row coordinating-committee">
-    <div class="col-sm-10">
-        <h3>Hannah Wang</h3>
-        <p>Hannah Wang (1st Term, 2022-2024, 2023 Chair) is Digital Preservation Specialist at the U.S. National Archives and Records Administration. Prior to joining NARA, she held positions at Educopia Institute as the Program Officer for Digital Infrastructure and at the Wisconsin Historical Society as the Electronic Records & Digital Preservation Archivist; she has also taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill. Hannah has been involved in several NDSA initiatives, including the 2021 Staffing Survey and the Membership Working Group.
-</p>
-    </div>
-    <div class="col-sm-2">
-        <img class="img-responsive" alt="Hannah Wang" src="{{ '/images/coordinating-committee/wang.jpg' | prepend: site.baseurl }}">
-    </div>
-</div>
+
 
 <h2>Interest and Working Group Chairs</h2>
 
@@ -167,7 +151,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Rachel Appel</h3>
-        <p>Rachel Appel (<a href="/groups/membership/">Membership Working Group</a> Co-Chair; 1st term, 2022-2024) is the Digital Preservation Librarian at the University of Pennsylvania where she develops, documents, implements and oversees preservation workflows, procedures and policies for the Penn Libraries' digital collections and assets, both digitized and born-digital. Prior to this role, Rachel was the Digital Projects and Services Librarian at Temple University, coordinating digital collections, implementing metadata projects related to cultural heritage and scholarly communication, and managing ongoing services. Rachel holds a Bachelor of Arts in Film Studies from Smith College and a Master of Science in Information Studies with a specialization in Digital Archives and Preservation from the University of Texas at Austin.</p>
+        <p>Rachel Appel (<a href="/groups/membership/">Membership Working Group</a> Co-Chair; 1st term, 2022-2024, 2025 Staffing Survey Co-chair) is the Digital Preservation Librarian at the University of Pennsylvania where she develops, documents, implements and oversees preservation workflows, procedures and policies for the Penn Libraries' digital collections and assets, both digitized and born-digital. Prior to this role, Rachel was the Digital Projects and Services Librarian at Temple University, coordinating digital collections, implementing metadata projects related to cultural heritage and scholarly communication, and managing ongoing services. Rachel holds a Bachelor of Arts in Film Studies from Smith College and a Master of Science in Information Studies with a specialization in Digital Archives and Preservation from the University of Texas at Austin.</p>
     </div>
     <div class="col-sm-2">
         <img class="img-responsive" alt="Rachel Appel" src="{{ '/images/coordinating-committee/appelRachel.jpg' | prepend: site.baseurl }}">
@@ -194,6 +178,15 @@ redirect_from: /leadership/
     </div>
 </div>
 
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Stacey Erdman</h3>
+        <p>Stacey Erdman (<a href="/groups/membership/">Membership Working Group</a> Co-chair) is the Digital Preservation Librarian at University of Arizona Library. In this position, she has responsibility for designing and leading the digital preservation and curation program for UA Library. She is the former Digital Preservation Officer at Arizona State University; Digital Archivist at Beloit College; and Digital Collections Curator at Northern Illinois University. She has been a part of the Digital POWRR Project since its inception in 2012, and is serving as Principal Investigator for the recently funded IMLS initiative, the Digital POWRR Peer Assessment Program. Stacey currently serves on the 2021 NDSA Program Committee, the Membership Task Force, and was previously part of the Levels of Preservation Assessment subgroup. She received her MA in Library & Information Studies, with a concentration in Archival Administration from UW-Madison, and holds a Digital Archives Specialist certificate from the SAA.</p>
+    </div>
+    <div class="col-sm-2">
+         <img class="img-responsive" class="img-responsive" alt="Stacey Erdman" src="{{ '/images/coordinating-committee/Erdman.jpg' | prepend: site.baseurl }}"> 
+    </div>
+</div>
 
 
 <div class="row coordinating-committee">
@@ -241,14 +234,15 @@ redirect_from: /leadership/
 </div>
 
 
+
+
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Kari May</h3>
-        <p>Kari May (<a href="/groups/excellance-awards/">Excellence Awards Working Group</a> Co-Chair; 1st term, 2023-2025) is the first Digital Archives & Preservation Librarian for the University of Pittsburgh Library System (ULS). She designed and implemented the ULS digital preservation program and continues to guide and develop strategies, workflows, documentation, and policies to safely guide digital assets from receipt to full, secure preservation. Previously, Kari led the development and operation of Kentucky State Government Electronic Records Management Branch and launched the Kentucky State Digital Archives. She has served as a member of the NDSA Excellence Awards Working Group and represented the group as a judge for the Digital Preservation Coalition’s 2022 Digital Preservation Awards.
-        </p>
+        <h3>Jen Mitcham</h3>
+        <p>Jen Mitcham (Levels of Digital Preservation Co-Chair) is Head of Good Practice and Standards at the Digital Preservation Coalition (DPC), an international membership organization with charitable status based in the UK. In her role at the DPC, Jenny is responsible for promoting and maintaining the DPC's maturity model for digital preservation the Rapid Assessment Model (DPC RAM) and leads a digital preservation project with the UK's Nuclear Decommissioning Authority. She has recently led the DPC's taskforce on EDRMS preservation which has resulted in the publication of an online resource. She is involved in the organization of events and commissioning publications on digital preservation issues and provides support to DPC Members in a variety of different areas. Jenny was previously a digital archivist at the Archaeology Data Service and the University of York and has been working in the field of digital preservation since 2003. She has been involved in several initiatives with the NDSA over the last few years, including the revision of the NDSA Levels of Preservation and the 2021 Fixity Survey.</p>
     </div>
     <div class="col-sm-2">
-        <img class="img-responsive" alt="Kari May" src="{{ '/images/coordinating-committee/May_April2023.JPG' | prepend: site.baseurl }}">
+        <img class="img-responsive" alt="Jen Mitcham" src="{{ '/images/coordinating-committee/Mitcham2022.jpg' | prepend: site.baseurl }}">
     </div>
 </div>
 
@@ -289,7 +283,16 @@ redirect_from: /leadership/
     </div>
 </div>
 
-
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Hannah Wang</h3>
+        <p>Hannah Wang (2025 Staffing Survey Co-chair) is a Senior Digital Preservation Specialist at the U.S. National Archives and Records Administration. Prior to joining NARA, she held positions at Educopia Institute as the Program Officer for Digital Infrastructure and at the Wisconsin Historical Society as the Electronic Records & Digital Preservation Archivist; she has also taught graduate-level archives classes as an Associate Lecturer at the University of Wisconsin-Madison iSchool. She received her MSIS from University of North Carolina-Chapel Hill. Hannah has been involved in several NDSA initiatives, including the 2021 Staffing Survey and the Membership Working Group.
+</p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" alt="Hannah Wang" src="{{ '/images/coordinating-committee/wang.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
 
 
 
