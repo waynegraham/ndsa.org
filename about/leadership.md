@@ -98,10 +98,22 @@ redirect_from: /leadership/
 </div>
 
 
+<div class="row coordinating-committee">
+    <div class="col-sm-10">
+        <h3>Margo Padilla</h3>
+        <p>Margo Padilla (1st term, 2025-2027) is the Digital Preservation Librarian at New York University where she unifies strategies and processes across the Division of Libraries to facilitate the preservation of digital resources. Prior to NYU, she was the Digital Archivist at the New-York Historical Society where she led the development of infrastructure for collecting, preserving, and providing access to born-digital collections. Margo recently served as a member of the National Best Practices for Archival Accessioning Working Group born-digital accessioning and digital preservation subgroup, and previously participated in Collective Responsibility: National Forum on Labor Practices for Grant-Funded Digital Positions.
+        </p>
+    </div>
+    <div class="col-sm-2">
+        <img class="img-responsive" class="img-responsive" alt="Margo Padilla" src="{{ '/images/coordinating-committee/Padilla_2025.jpg' | prepend: site.baseurl }}">
+    </div>
+</div>
+
+
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Shira Peltzman</h3>
+        <h3>Shira Peltzman, 2025 Chair</h3>
         <p>Shira Peltzman (1st term, 2023-2025) is the Associate Director for Preservation Digital Strategies at Yale University Library where she provides leadership and direction for digital preservation, media preservation, and preservation imaging. In her role she serves as an advocate for sustainable stewardship and works with stakeholders across campus to champion ambitious preservation initiatives that support enduring access to Yale’s digital collections.</p>
     </div>
     <div class="col-sm-2">
@@ -122,7 +134,7 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Bethany Scott, 2024 Chair</h3>
+        <h3>Bethany Scott</h3>
         <p>Bethany Scott (1st term, 2023-2025) is the Head of Preservation & Reformatting at the University of Houston Libraries. In this role she provides strategic leadership for the Libraries’ physical and digital preservation programs, and digitization and reformatting services for the Libraries and its patrons. Bethany also serves as Product Owner of the Libraries' open-source digital access and preservation ecosystem, which incorporates Avalon, Hyrax, Archivematica, and ArchivesSpace. Her areas of expertise include digital preservation, born-digital archives, scanning and imaging, and reuse of archival metadata.</p>
     </div>
     <div class="col-sm-2">
