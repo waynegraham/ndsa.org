@@ -146,7 +146,7 @@ redirect_from: /leadership/
 <div class="row coordinating-committee">
     <div class="col-sm-10">
         <h3>Sylvia Umana</h3>
-        <p>Sylvia (1st Term, 2025-2027) is a dedicated Digital Collections Librarian at the Namibia University of Science and Technology Library with a deep passion for her role in preserving and managing digital assets. She holds a Master’s degree in Library and Information Science from the University of Namibia in 2020, where her area of research focused on the digital preservation of institutional repositories. In her role as the digital collections’ librarian, Sylvia worked on various digitization projects including collaborations with the National Archives of Namibia and Desert Research Foundation of Namibia. She is committed to advancing her knowledge on active digital preservation, and thus continues to explore as she aims to actively implement these in her organization.
+        <p>Sylvia Umana (1st Term, 2025-2027) is a dedicated Digital Collections Librarian at the Namibia University of Science and Technology Library with a deep passion for her role in preserving and managing digital assets. She holds a Master’s degree in Library and Information Science from the University of Namibia in 2020, where her area of research focused on the digital preservation of institutional repositories. In her role as the digital collections’ librarian, Sylvia worked on various digitization projects including collaborations with the National Archives of Namibia and Desert Research Foundation of Namibia. She is committed to advancing her knowledge on active digital preservation, and thus continues to explore as she aims to actively implement these in her organization.
         </p>
     </div>
     <div class="col-sm-2">
