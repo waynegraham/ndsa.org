@@ -38,13 +38,12 @@ Nominations for the 2023 NDSA Excellence Awards are now [open](https://forms.gle
 
 
 ## Working Group Members
-- Kari May, co-chair (University of Pittsburgh)
 - Matt McEniry, co-chair (Texas Tech University)
+- Jessica Venlet, co-chair (University of North Carolina at Chapel Hill Libraries)
 - Julie Allen (Open Preservation Foundation)
 - Chris Banuelos (Rice University)
 - Sarah Middleton (Digital Preservation Coalition Representative)
 - Dorothea Salo (University of Wisconsin-Madison)
-- Jessica Venlet (University of North Carolina at Chapel Hill Libraries)
 
 
 ## Past Award Recipients
