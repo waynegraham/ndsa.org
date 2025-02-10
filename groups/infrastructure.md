@@ -16,20 +16,21 @@ The Infrastructure Interest Group works to identify and share emerging practices
   * All NDSA events can be found on the [NDSA Calendar](https://ndsa.org/about/calendar/)  
 
   * The meetings for the Infrastructure Interest Group are held quarterly at 1pm EST.
- * The 2024 dates are listed below:
-    * March 18th
-    * June 17th 
-    * September 30th (date change)
-    * December 12th (date change)
+ * The 2025 dates are listed below:
+    * March 17th
+    * June 23rd
+    * September 15th
+    * December 15th
  
   * Calendar invites are not sent out due to the changing nature of the membership list.  We encourage you to create a recurring invite to your own calendar, using the information found in the meeting agenda/notes document linked below. 
-  * Call in information is available on the running [2024 meeting agenda/notes document](https://bit.ly/3tCbUrk).
+  * Call in information is available on the running [2025 meeting agenda/notes document](https://docs.google.com/document/d/1WDuGQoXoeIBZPoQnLIyn15R043U7H41_OR97yFD_mvA/edit?tab=t.0).
   * Meetings may be recorded and would be posted to our YouTube Playlist at [https://bit.ly/2QRIMmO](https://bit.ly/2QRIMmO).
 
 
 
 ## Past Meetings
  
+  * Agendas and notes for 2024 are available at [https://bit.ly/3tCbUrk](https://bit.ly/3tCbUrk)
   * Agendas and notes for 2023 are available at [http://bit.ly/3YG4ePI](http://bit.ly/3YG4ePI)
   * Agendas and notes for 2022 are available at [https://bit.ly/3ffGuMR](https://bit.ly/3ffGuMR)
   * Agendas and notes for 2021 are available at [https://bit.ly/31SVJZj](https://bit.ly/31SVJZj)
