@@ -38,7 +38,17 @@ If you are interested in working on this round of the Staffing Survey, fill out 
 ## Working Group Members for 2025
 - Rachel Appel (co-chair) (rappel at upenn dot edu)
 - Hannah Wang (co-chair) (hannah dot wang at nara dot gov)
-
+- Snowden Becker, LOCKSS
+- Dianne Dietrich, Cornell University
+- Claire Fox, Yale University
+- Ethan Gates, Yale University
+- Heather Heckman, University of South Carolina
+- Kim Hoffman, Hamilton College
+- Tori Maches, UC San Diego
+- Sharon McMeekin, DPC
+- Anna Perricci, DPC
+- Max Prud'homme, Oklahoma State University
+- Marie Williams Chant, Museum of Glass
 
 
 
